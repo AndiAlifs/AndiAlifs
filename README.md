@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/andyalyf"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://andialifs.github.io"><img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website Badge"></a>
 </p>
 </p>
 
@@ -11,13 +11,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me :
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full Stack Developer and Data Science Enthusiast from Indonesia 🇮🇩.
+I am a Full Stack Developer and Data Science Enthusiast from Indonesia 🇮🇩. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!-- - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
 - 🎓 I'm currently pursuing my Masters in Computer Science from Universitas Brawijaya.
 - 🌱 I’m currently learning Web App Dev, Data Science, and Machine Learning.
-- 📃 Doing Research on AI, Web App Dev, and Data Science.
-- 👯 I’m looking to collaborate on open source projects.
+- 📃 I;m Doing Research on AI, Web App Dev, and Data Science.
 - 📫 How to reach me: &nbsp; 
     <a href="mailto:andyalyfsyah4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
     <a href="https://www.linkedin.com/in/andyalyf"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;
@@ -52,6 +51,6 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=AndiAlifs&theme=dark&background=000000" width="500"/></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=AndiAlifs&theme=dark&background=000000" width="450"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndiAlifs&layout=compact&theme=vision-friendly-dark" width="500"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndiAlifs&layout=compact&theme=vision-friendly-dark" width="350"/></p>
