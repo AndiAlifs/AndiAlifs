@@ -15,8 +15,8 @@ I am a Full Stack Developer and Data Science Enthusiast from Indonesia 🇮🇩.
 
 <!-- - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
 - 🎓 I'm currently pursuing my Masters in Computer Science from Universitas Brawijaya.
-- 🌱 I’m currently learning Web App Dev, Data Science, and Machine Learning.
-- 📃 I;m Doing Research on AI, Web App Dev, and Data Science.
+- 🌱 I'm currently learning Web App Dev, Data Science, and Machine Learning.
+- 📃 I'm Doing Research on AI, Web App Dev, and Data Science.
 - 📫 How to reach me: &nbsp; 
     <a href="mailto:andyalyfsyah4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
     <a href="https://www.linkedin.com/in/andyalyf"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;
