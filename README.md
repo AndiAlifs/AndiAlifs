@@ -51,6 +51,6 @@ I am a Full Stack Developer and Data Science Enthusiast from Indonesia 🇮🇩.
 ---
 
 ### 🔥 &nbsp; My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=AndiAlifs&theme=dark&background=000000" width="450"/></p>
+<!--- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=AndiAlifs&theme=dark&background=000000" width="450"/></p> -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndiAlifs&layout=compact&theme=vision-friendly-dark" width="350"/></p>
