@@ -10,7 +10,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
 
 ### 👨🏻‍💻 &nbsp;About Me :
-
+Hi There, My Name is Andi Alifsyah Dyasham
 I am a Full Stack Developer and Data Science Enthusiast from Indonesia 🇮🇩. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!-- - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
